@@ -1,0 +1,14 @@
+
+#clients
+#amb-driver
+Web/clients/amb-driver/node_modules
+
+#Hospital-display
+Web/clients/hospital-display/node_modules
+
+#Admin-View
+Web/clients/admin/node_modules
+
+#server
+server/node_modules
+server/.env
